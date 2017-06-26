@@ -32,7 +32,10 @@ namespace MapControl
         {
             try
             {
-                using (var response = WebRequest.Create(uri).GetResponse())
+				var request = (HttpWebRequest)WebRequest.Create(uri);
+				//request.Referer = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36";
+
+				using (var response = request.GetResponse())
                 using (var responseStream = response.GetResponseStream())
                 using (var memoryStream = new MemoryStream())
                 {

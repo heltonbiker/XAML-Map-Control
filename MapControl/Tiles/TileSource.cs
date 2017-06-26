@@ -106,12 +106,13 @@ namespace MapControl
         {
             var hostIndex = (x + y) % 4;
 
-            return new Uri(uriFormat
-                .Replace("{i}", hostIndex.ToString())
-                .Replace("{x}", x.ToString())
-                .Replace("{y}", y.ToString())
-                .Replace("{z}", zoomLevel.ToString()),
-                UriKind.RelativeOrAbsolute);
+			var finalUri = uriFormat
+				.Replace("{i}", hostIndex.ToString())
+				.Replace("{x}", x.ToString())
+				.Replace("{y}", y.ToString())
+				.Replace("{z}", zoomLevel.ToString());
+
+			return new Uri(finalUri, UriKind.RelativeOrAbsolute);
         }
 
         private Uri GetMapQuestUri(int x, int y, int zoomLevel)

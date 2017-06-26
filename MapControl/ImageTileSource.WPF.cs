@@ -32,7 +32,7 @@ namespace MapControl
                 }
                 else
                 {
-                    image = new BitmapImage(uri);
+					image = new BitmapImage(uri);
                 }
             }
 

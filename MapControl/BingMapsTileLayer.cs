@@ -8,15 +8,9 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Net;
 using System.Xml;
-#if NETFX_CORE
-using Windows.UI.Xaml;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Media.Imaging;
-#else
 using System.Windows;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-#endif
 
 namespace MapControl
 {
