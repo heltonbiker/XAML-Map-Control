@@ -1,10 +1,10 @@
-E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\bin\Debug\MapControl.WPF.dll
-E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\bin\Debug\MapControl.WPF.pdb
+E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF.csprojResolveAssemblyReference.cache
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF_MarkupCompile.cache
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF_MarkupCompile.lref
+E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\bin\Debug\MapControl.WPF.dll
+E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\bin\Debug\MapControl.WPF.pdb
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\Themes\Generic.baml
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF.g.resources
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF.dll
 E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF.pdb
-E:\00 GIT\heltonbiker-XAML-Map-Control\MapControl\obj\Debug\MapControl.WPF.csprojResolveAssemblyReference.cache

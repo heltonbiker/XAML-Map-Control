@@ -83,14 +83,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Caching\FileDbCache.WPF\FileDbCache.WPF.csproj">
-      <Project>{ef44f661-b98a-4676-927f-85d138f82300}</Project>
-      <Name>FileDbCache.WPF</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Caching\ImageFileCache.WPF\ImageFileCache.WPF.csproj">
-      <Project>{86470440-fee2-4120-af5a-3762fb9c536f}</Project>
-      <Name>ImageFileCache.WPF</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\MapControl\MapControl.WPF.csproj">
       <Project>{226f3575-b683-446d-a2f0-181291dc8787}</Project>
       <Name>MapControl.WPF</Name>

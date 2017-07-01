@@ -1,0 +1,6 @@
+E:\00 GIT\heltonbiker-XAML-Map-Control\Caching\FileDbCache.WPF\bin\Debug\FileDbCache.WPF.dll
+E:\00 GIT\heltonbiker-XAML-Map-Control\Caching\FileDbCache.WPF\bin\Debug\FileDbCache.WPF.pdb
+E:\00 GIT\heltonbiker-XAML-Map-Control\Caching\FileDbCache.WPF\bin\Debug\FileDb.dll
+E:\00 GIT\heltonbiker-XAML-Map-Control\Caching\FileDbCache.WPF\bin\Debug\FileDb.xml
+E:\00 GIT\heltonbiker-XAML-Map-Control\Caching\FileDbCache.WPF\obj\Debug\FileDbCache.WPF.dll
+E:\00 GIT\heltonbiker-XAML-Map-Control\Caching\FileDbCache.WPF\obj\Debug\FileDbCache.WPF.pdb
